@@ -11,6 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000.svg?&style=for-the-badge&logo=Remix&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-36363.svg?&style=for-the-badge&logo=Solidity&logoColor=white)
 
 # Tools
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
