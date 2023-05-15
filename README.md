@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminy-genie&count_bg=%2332DE84&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miny-genie&show_icons=true&theme=dracula)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmin2000)](https://solved.ac/kjmin2000/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmin200)](https://solved.ac/kjmin2000/)
 
 # Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
