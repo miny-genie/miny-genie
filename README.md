@@ -18,6 +18,13 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?&style=for-the-badge&logo=Solidity&logoColor=white)
 ![Remix](https://img.shields.io/badge/Remix-000000.svg?&style=for-the-badge&logo=Remix&logoColor=white)
 
+# Languages
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,ruby,html&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miny-genie&theme=tokyonight)
+
+
+
 <!-- # Tools -- >
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -29,7 +36,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://miny-genie.tistory.com/)](https://miny-genie.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjmin2000@naver.com)](mailto:kjmin2000@naver.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjmin2000@naver.com)](mailto:kjmin2000@naver.com)
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 
 <!--
 **miny-genie/miny-genie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
