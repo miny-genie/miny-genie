@@ -22,8 +22,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,ruby,html&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miny-genie&theme=tokyonight)
-
-
+<a href="https://github.com/miny-genie"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miny-genie&layout=compact&theme=nord&hide_border=true" /></a>
 
 <!-- # Tools -- >
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
