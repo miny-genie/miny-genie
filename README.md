@@ -1,4 +1,7 @@
 # Kim Jimin
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github)](https://miny-genie.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kjmin2000@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white)](mailto:kjmin2000@naver.com)
 
 ## 👀 Profile Views
 [![Hits](https://hitscounter.dev/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fminy-genie&count_bg=%2332DE84&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hitscounter.dev)
@@ -6,6 +9,11 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miny-genie&show_icons=true&theme=dracula) -->
 ## 🏆 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmin2000)](https://solved.ac/kjmin2000/)
+
+# 📝 Languages
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,ruby,html&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miny-genie&theme=tokyonight&layout=compact)
 
 ## 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -55,36 +63,3 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
-
-# Languages
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,ruby,html&theme=tokyonight) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miny-genie&theme=tokyonight&layout=compact)
-
-<!-- # Tools -- >
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000.svg?&style=for-the-badge&logo=Remix&logoColor=white)
-
-# Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://miny-genie.tistory.com/)](https://miny-genie.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjmin2000@naver.com)](mailto:kjmin2000@naver.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjmin2000@naver.com)](mailto:kjmin2000@naver.com)
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-
-<!--
-**miny-genie/miny-genie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
