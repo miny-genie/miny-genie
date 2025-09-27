@@ -5,8 +5,6 @@
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=miny-genie&show_icons=true&theme=dracula) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjmin2000)](https://solved.ac/kjmin2000/)
 
-# 🚀 Skills
-
 ## 🤖 AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
